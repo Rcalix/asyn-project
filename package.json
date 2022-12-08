@@ -1,0 +1,25 @@
+{
+  "name": "asyn-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rcalix/asyn-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rcalix/asyn-project/issues"
+  },
+  "homepage": "https://github.com/Rcalix/asyn-project#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-fetch": "^3.3.0"
+  }
+}
